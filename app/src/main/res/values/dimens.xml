@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_width">300dp</dimen>
+    <dimen name="edit_height">20dp</dimen>
+    <dimen name="margintop_edt_txt">50dp</dimen>
+</resources>
